@@ -67,7 +67,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-
+<img src="https://i.imgur.com/YCw47Dm.gif">
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px">
