@@ -182,21 +182,20 @@
 <!--🖼️⭐🔱STARRED/FORK-->
 
 <!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 
 <!--🪳ROACH&🕷️SPIDER--> 
 
  
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
-<p align="right">
+
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Monday, April 11th, 2022, 2:54:16 AM</b>
+
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
