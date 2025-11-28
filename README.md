@@ -178,7 +178,8 @@
 
 </h4>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-
+<p align="center">
+<img src="file:///C:/Users/kero6/AppData/Local/Temp/1d61088a-1879-4f06-b3a6-163c140d7a46_trinib-main.zip.a46/trinib-main/images/marquee.svg" width="400" height="400">
 <!--🖼️⭐🔱STARRED/FORK-->
 
 <!--📏LINE-->
