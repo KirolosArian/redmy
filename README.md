@@ -164,19 +164,33 @@
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
 <!--🖼️🖼️INTERSTLOGOS-->
-<p align="center">
+<!-- <p align="center"> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60"> -->
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<!-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60"> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60"> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60"> -->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60"> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60"> -->
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-
+<!-- <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60"> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> -->
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" title="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" title="C++">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" title="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" title="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" title="Visual Studio Code">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" title="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="60" title="Windows">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" title="GitHub">
+</p>
 </h4>
+<!-- CODE TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=79A500&center=true&vCenter=true&width=600&lines=Python+%7C+C%2B%2B+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things;Dr.+ASHRAF+WILL+DO+IT+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 
 <!--🖼️⭐🔱STARRED/FORK-->
