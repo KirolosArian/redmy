@@ -189,7 +189,7 @@
 </h4>
 <!-- CODE TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=79A500&center=true&vCenter=true&width=600&lines=Python+%7C+C%2B%2B+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things;Dr.+ASHRAF+WILL+DO+IT+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=79A500&center=true&vCenter=true&width=600&lines=Python+%7C+C%2B%2B+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things;Dr.+ASHRAF+WILL+kill+me+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 
